@@ -1,6 +1,6 @@
 # Python Machine Learning Project – Detecting Parkinson’s Disease with XGBoost
 
-## Objective and Information about the Python Machine Learning Project
+## Objective and Information about this Python Machine Learning Project
 
 To build a model which is to accurately identify whether a person is suffered from Parkinson’s disease or not.
 In this Python machine learning repository, a model is built by utilizing an XGBClassifier, the Python libraries scikit-learn, numpy, pandas, and xgboost. 
