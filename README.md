@@ -1,6 +1,6 @@
 # Python Machine Learning Project – Detecting Parkinson’s Disease with XGBoost
 
-Sources: https://data-flair.training/blogs/
+Citation: https://data-flair.training/blogs/
 
 ## Objective and Information about this Python Machine Learning Project
 
